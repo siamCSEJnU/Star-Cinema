@@ -6,5 +6,5 @@
 3. View Shows in a Hall
 4. View Available Seats for a Show
 5. Book Seats for a Show
-6. Exit<br /> 
+6. Exit<br /> <br /> 
 Enter your choice: 
